@@ -1,7 +1,3 @@
-Sure Aashana! Here's a professional and clean **README** for your **Banking Dashboard** project, suitable for GitHub or internal documentation:
-
----
-
 # 📊 Banking Risk Analytics Dashboard
 
 ## 🧩 Project Overview
