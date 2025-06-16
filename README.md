@@ -51,6 +51,16 @@ The data used in this project is composed of multiple interlinked tables, simula
 * Trend and relationship graphs (e.g., loans vs. credit card balance)
 * Filters for nationality, occupation, risk class, and more
 
+![image](https://github.com/user-attachments/assets/827c923d-d437-400c-b437-c0fc0b569fed)
+
+**Loan Analysis Dashboard**
+    
+![image](https://github.com/user-attachments/assets/6dfe2e78-1cef-4e8f-b153-9864714b9d14)
+
+**Deposit Analysis Dashboard**
+
+
+
 ---
 
 ## 🛠️ Tools & Technologies
